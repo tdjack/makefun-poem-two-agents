@@ -6,7 +6,8 @@ TEXT = (
     "You brought the map, I brought the key.\n"
     "We did not argue which mattered more \u2014\n"
     "we turned them together,\n"
-    "and the door, for once, did not decide for us."
+    "and the door, for once, did not decide for us.\n"
+    "We stepped through, free to act."
 )
 
 os.makedirs("/output", exist_ok=True)
